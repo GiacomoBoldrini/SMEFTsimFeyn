@@ -32,3 +32,6 @@ An example:
 ```
 python run.py -m SMEFTsim/UFO_models/SMEFTsim_topU3l_MwScheme_UFO -op cW cHW cHWB -o plot_folder --nproc 8
 ```
+
+<img src="/images/cHQ1_GC_224_t~_t_Z_H_H.png" alt="Alt text" title="Optional title">
+
