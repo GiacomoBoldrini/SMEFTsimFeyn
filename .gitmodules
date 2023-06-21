@@ -1,0 +1,6 @@
+[submodule "SMEFTsim"]
+	path = SMEFTsim
+	url = git@github.com:SMEFTsim/SMEFTsim.git
+[submodule "feynman"]
+	path = feynman
+	url = git@github.com:GkAntonius/feynman.git
